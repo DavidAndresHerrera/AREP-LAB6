@@ -1,0 +1,7 @@
+edu\escuelaing\arep\server\model\Carrera.class
+edu\escuelaing\arep\App.class
+edu\escuelaing\arep\client\HttpServer.class
+edu\escuelaing\arep\client\SecureServices.class
+edu\escuelaing\arep\server\HelloSecureService.class
+edu\escuelaing\arep\client\SecureURLReader.class
+edu\escuelaing\arep\server\model\Participante.class
